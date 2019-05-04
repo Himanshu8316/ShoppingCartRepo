@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80169" started-at="2019-05-04T15:16:13Z" finished-at="2019-05-04T15:17:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80169" started-at="2019-05-04T15:16:13Z" finished-at="2019-05-04T15:17:33Z">
+      <class name="Cart.Add_Product">
+        <test-method status="PASS" signature="launch_browser()[pri:0, instance:Cart.Add_Product@39aeed2f]" name="launch_browser" is-config="true" duration-ms="24068" started-at="2019-05-04T20:46:13Z" finished-at="2019-05-04T20:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method status="PASS" signature="Select_Add_Product()[pri:0, instance:Cart.Add_Product@39aeed2f]" name="Select_Add_Product" duration-ms="43666" started-at="2019-05-04T20:46:37Z" finished-at="2019-05-04T20:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Add_Product -->
+        <test-method status="PASS" signature="View_Cart()[pri:0, instance:Cart.Add_Product@39aeed2f]" name="View_Cart" duration-ms="11009" started-at="2019-05-04T20:47:20Z" finished-at="2019-05-04T20:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- View_Cart -->
+        <test-method status="PASS" signature="Close_Browser()[pri:0, instance:Cart.Add_Product@39aeed2f]" name="Close_Browser" is-config="true" duration-ms="1390" started-at="2019-05-04T20:47:32Z" finished-at="2019-05-04T20:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Browser -->
+      </class> <!-- Cart.Add_Product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

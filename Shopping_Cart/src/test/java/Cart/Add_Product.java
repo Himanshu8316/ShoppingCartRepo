@@ -1,3 +1,9 @@
+/* Selects a product, size and adds it to the Shopping Cart
+ * Module Name : Shopping Cart
+ * Created : May 4, 2019 10:00 PM 
+ * Author : Himanshu Sharma
+ */
+
 package Cart;
 
 import org.testng.annotations.AfterTest;
@@ -92,6 +98,7 @@ public class Add_Product {
 	@AfterTest
 	public void Close_Browser()
 	{
+		// Closes Browser
 		driver.close();
 	}
 }
